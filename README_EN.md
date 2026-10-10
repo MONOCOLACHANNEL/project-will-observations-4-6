@@ -1,6 +1,6 @@
 # Project Will — Observations #4–#6 and Series Synthesis (2026-09-13 to 09-28)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23277761.svg)](https://doi.org/10.5281/zenodo.23277761)
 
 Full logs and analyses of the third installment of **Project Will**: 32 autonomous LLM villagers in Minecraft, observed for 6 hours with **no rules, no rewards, no assigned roles, and no instruction to cooperate**. This release covers three 6-hour runs — Observation #4 ("mind and books"), #5 ("body and hunger"), #6 ("instinct") — and four verification runs after #6 (B-39 to B-42) that asked: *did society fail to emerge because of defects in our own system?* The report doubles as a **synthesis of the whole series (#1–#6)**.
 
@@ -41,6 +41,6 @@ Every claim in the report was independently re-derived from raw data before rele
 
 ## Citation
 
-> Monocola (モノコーラ). (2026). Project Will: Observations #4–#6 and series synthesis — LLM villagers given books, bodies, and instincts [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Monocola (モノコーラ). (2026). Project Will: Observations #4–#6 and series synthesis — LLM villagers given books, bodies, and instincts [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23277761
 
 License: data & documents CC BY 4.0 / scripts MIT.

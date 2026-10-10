@@ -1,6 +1,6 @@
 # Project Will — 観測 #4〜#6 と総括（2026-09-13〜09-28）
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23277761.svg)](https://doi.org/10.5281/zenodo.23277761)
 
 🌐 **English summary: [README_EN.md](README_EN.md)**
 
@@ -53,8 +53,8 @@ python tools/find.py 忘れたとは言わせん --run obs5 --speech
 
 本データセットは **Project Will シリーズ**（著者: モノコーラ / Monocola）の第 3 弾であり、観測 #1・#2–#3 と同一著者による継続観測です。引用は [CITATION.cff](CITATION.cff) を参照：
 
-> Monocola (モノコーラ). (2026). Project Will: Observations #4–#6 and series synthesis — LLM villagers given books, bodies, and instincts [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Monocola (モノコーラ). (2026). Project Will: Observations #4–#6 and series synthesis — LLM villagers given books, bodies, and instincts [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23277761
 
-（DOI は全バージョンを指し、常に最新版へ解決します。シリーズ全体に言及する場合は観測 #1（10.5281/zenodo.21723921）・観測 #2–#3（10.5281/zenodo.22040887）の DOI と併記してください。質問・指摘は GitHub Issue へ）
+（DOI は全バージョンを指し、常に最新版へ解決します。特定版は v1.0 = 10.5281/zenodo.23277762。シリーズ全体に言及する場合は観測 #1（10.5281/zenodo.21723921）・観測 #2–#3（10.5281/zenodo.22040887）の DOI と併記してください。質問・指摘は GitHub Issue へ）
 
 ライセンス：データ・文書 **CC BY 4.0** ／ スクリプト **MIT**（[LICENSE](LICENSE)）

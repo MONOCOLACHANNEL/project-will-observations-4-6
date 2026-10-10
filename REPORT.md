@@ -675,6 +675,6 @@ python tools/find.py 忘れたとは言わせん --run obs5 --speech
 
 ## 引用
 
-> Monocola (モノコーラ). (2026). Project Will: Observations #4–#6 and series synthesis — LLM villagers given books, bodies, and instincts [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+> Monocola (モノコーラ). (2026). Project Will: Observations #4–#6 and series synthesis — LLM villagers given books, bodies, and instincts [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23277761
 
-（DOI は全バージョンを指し、常に最新版へ解決する。本シリーズは同一著者による継続観測であり、シリーズ全体を参照する場合は観測#1（10.5281/zenodo.21723921）・観測#2–#3（10.5281/zenodo.22040887）の DOI と併記されたい）
+（DOI は全バージョンを指し、常に最新版へ解決する。特定版は v1.0 = 10.5281/zenodo.23277762。本シリーズは同一著者による継続観測であり、シリーズ全体を参照する場合は観測#1（10.5281/zenodo.21723921）・観測#2–#3（10.5281/zenodo.22040887）の DOI と併記されたい）
