@@ -7,7 +7,7 @@
   "keywords": ["LLM agents", "multi-agent simulation", "Minecraft", "emergence", "artificial society", "cooperation", "institutions", "Project Will"],
   "description": "Full logs and analyses of the third installment of Project Will: 32 autonomous LLM-driven Minecraft villagers observed for 6 hours with no rules, rewards, assigned roles, or instructions to cooperate. Covers Observation #4 (time awareness, foresight, honest perception, a book for everyone), #5 (15 independently randomized body traits, starvation), #6 (instinct-driven agents with persistent self-assigned attitudes, promises, and child dependency), and four post-#6 verification runs (B-39 to B-42) that tested whether the absence of society was caused by system defects — including a whole-system audit that found 109 defects, 105 of which were fixed before a pre-registered 2-hour run. Includes structured event ledgers (gzipped JSONL), full speech timelines, full texts of all books, persona cards, death lists, a pre-release verification ledger re-deriving every claim from raw data, and a synthesis comparing all six observations. Main finding: individual inner life (records, plans, predictions, personalities) grew richer, but no mechanism for meshing with others — division of labor, exchange, two-sided agreements, collective response — emerged in this setting; villagers followed the designer-written persona cards but rarely followed peers' commands. Report in Japanese with an English summary.",
   "related_identifiers": [
-    {"identifier": "10.5281/zenodo.21723921", "relation": "isContinuationOf", "scheme": "doi"},
-    {"identifier": "10.5281/zenodo.22040887", "relation": "isContinuationOf", "scheme": "doi"}
+    {"identifier": "10.5281/zenodo.21723921", "relation": "continues", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.22040887", "relation": "continues", "scheme": "doi"}
   ]
 }
