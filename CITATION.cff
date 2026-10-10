@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or report, please cite it as below."
+title: "Project Will: Observations #4–#6 and series synthesis — LLM villagers given books, bodies, and instincts"
+authors:
+  - name: "Monocola (モノコーラ)"
+type: dataset
+license: CC-BY-4.0
+date-released: 2026-10-11
+doi: 10.5281/zenodo.XXXXXXXX
+repository-code: "https://github.com/MONOCOLACHANNEL/project-will-observations-4-6"
+references:
+  - type: dataset
+    title: "Project Will: Observation #1 — 32 autonomous LLM villagers, 6 hours, no institutions"
+    authors:
+      - name: "Monocola (モノコーラ)"
+    doi: 10.5281/zenodo.21723921
+  - type: dataset
+    title: "Project Will: Observations #2–#3 — 32 autonomous LLM villagers with integrated memory, no institutions"
+    authors:
+      - name: "Monocola (モノコーラ)"
+    doi: 10.5281/zenodo.22040887

@@ -1,0 +1,2 @@
+# B-42 実機30分 1回目 g3-bio6 boot=20260925_111053 観測窓 2026-09-25 11:10:53〜2026-09-25 11:42:05 の death イベント（vid ごとに最初の1件）。時刻は Mod 側の実死亡（mod_epoch）。brain が受けた時刻との差は lag_ms。窓の後の死亡 0 件は含めない
+time	day	dead	vid	cause	killer	by_raw	pos	lag_ms	epoch_mod
