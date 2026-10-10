@@ -31,7 +31,7 @@ TITLE = 'Project Will 観測報告 #4–#6 と総括：本・体・本能を与�
 TITLE_EN = ('Project Will Observations #4–#6 and series synthesis: did LLM villagers given books, '
             'bodies, and instincts build a society?')
 AUTHOR = 'Monocola (モノコーラ)'
-DATE = '2026-10-11'
+DATE = '2026-10-10'
 _cff = open(os.path.join(ROOT, 'CITATION.cff'), encoding='utf-8').read()
 DOI = _re.search(r'^doi:\s*(\S+)', _cff, _re.M).group(1)
 REPO = 'https://github.com/MONOCOLACHANNEL/project-will-observations-4-6'
