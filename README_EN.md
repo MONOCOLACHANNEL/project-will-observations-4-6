@@ -4,6 +4,8 @@
 
 Full logs and analyses of the third installment of **Project Will**: 32 autonomous LLM villagers in Minecraft, observed for 6 hours with **no rules, no rewards, no assigned roles, and no instruction to cooperate**. This release covers three 6-hour runs — Observation #4 ("mind and books"), #5 ("body and hunger"), #6 ("instinct") — and four verification runs after #6 (B-39 to B-42) that asked: *did society fail to emerge because of defects in our own system?* The report doubles as a **synthesis of the whole series (#1–#6)**.
 
+Video: https://youtu.be/l-lXAbYm5Jo
+
 Previous releases by the same author: [Observation #1](https://github.com/MONOCOLACHANNEL/project-will-observation-1) (DOI [10.5281/zenodo.21723921](https://doi.org/10.5281/zenodo.21723921)) · [Observations #2–#3](https://github.com/MONOCOLACHANNEL/project-will-observations-2-3) (DOI [10.5281/zenodo.22040887](https://doi.org/10.5281/zenodo.22040887)).
 
 Models: decisions and dialogue by Gemini 3.5 Flash-Lite (Gemini 3.8 Flash at branch points), memory consolidation by Gemini 3 Flash preview.

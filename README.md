@@ -6,7 +6,7 @@
 
 Minecraft の中に置いた 32 人の LLM 村人を、規則・報酬・「協力しろ」という指示を与えずに 6 時間観測するシリーズ（役割の欄の扱いは報告書 §1.4）「Project Will」の第 3 弾です。観測 #4（頭と本）・#5（体と飢え）・#6（本能）の 3 本の 6 時間ロングランと、#6 のあとに「系（私が作った仕組み）の欠陥のせいではないか」を確かめた 4 本の検証 run（B-39〜B-42。系全体の監査で見つけた不備 109 件のうち 105 件の修正を含む）の、全記録と全分析を収めています。報告書は #1 から #6 までを同じ物差しで並べ直した**シリーズの総括**を兼ねます。
 
-📺 動画: 準備中（公開後にここへ追記します）
+📺 動画: https://youtu.be/l-lXAbYm5Jo
 📄 報告書: [REPORT.md](REPORT.md)（PDF: [REPORT.pdf](REPORT.pdf)）
 🔎 主張↔データ対応表: [VERIFICATION.md](VERIFICATION.md) ／ 公開前の全数再検証台帳: [VERIFICATION_LEDGER.md](VERIFICATION_LEDGER.md)
 📚 データ辞書: [DATA.md](DATA.md)
