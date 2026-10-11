@@ -42,7 +42,7 @@ python tools/find.py --run obs4 --time 23:59 00:01 --speech      # 0 時また�
 
 ## 同梱していないもの（途中経過の記録）
 
-観測直後の分析文書・全系監査の原本・作業の申し送りは、途中経過の記録なので同梱していない（私の指示で LLM のセッションが書いた作業記録で、後の検証で直した値や、作業の中の言い回しが混じる）。結論と数値は `REPORT.md` と `VERIFICATION_LEDGER.md` が正である。`VERIFICATION.md`・`VERIFICATION_LEDGER.md` の出典の列に出てくる `analysis_…`・`audit/…`・`after6/…`・`brain/logs/…` などは、この内部の記録の場所を示す参照用の名である。
+観測直後の分析メモ・全系監査の原本・作業記録は、内部資料なので同梱していない。結論と数値は `REPORT.md` が正である。`VERIFICATION.md` の出典の列に出てくる `analysis_…`・`audit/…`・`after6/…`・`brain/logs/…` などは、この内部の記録の場所を示す参照用の名である。
 
 ## 既知の注意点（正直な但し書き）
 

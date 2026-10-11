@@ -8,7 +8,7 @@ Minecraft の中に置いた 32 人の LLM 村人を、規則・報酬・「協�
 
 📺 動画: https://youtu.be/l-lXAbYm5Jo
 📄 報告書: [REPORT.md](REPORT.md)（PDF: [REPORT.pdf](REPORT.pdf)）
-🔎 主張↔データ対応表: [VERIFICATION.md](VERIFICATION.md) ／ 公開前の全数再検証台帳: [VERIFICATION_LEDGER.md](VERIFICATION_LEDGER.md)
+🔎 主張↔データ対応表: [VERIFICATION.md](VERIFICATION.md)
 📚 データ辞書: [DATA.md](DATA.md)
 🧬 足した仕組みの設計: [DESIGN_GEN3.md](DESIGN_GEN3.md)
 🔧 #6 のあとの全系監査（不備 109 件）: [AUDIT_109.md](AUDIT_109.md)
@@ -41,7 +41,6 @@ python tools/find.py 忘れたとは言わせん --run obs5 --speech
 |---|---|
 | [REPORT.md](REPORT.md) | 技術報告書 本体（#4〜#6・#6 後の検証・シリーズの総括） |
 | [VERIFICATION.md](VERIFICATION.md) | 主張↔データ対応表 |
-| [VERIFICATION_LEDGER.md](VERIFICATION_LEDGER.md) | 公開前の全数再検証の台帳（本文の主張を生データから独立に数え直した全件） |
 | [DATA.md](DATA.md) | データ辞書と既知の注意点 |
 | [DESIGN_GEN3.md](DESIGN_GEN3.md) | #4〜#6 で足した・外した仕組みの設計と、その判断の理由 |
 | [AUDIT_109.md](AUDIT_109.md) | 全系監査の不備 109 件の一覧と対応 |

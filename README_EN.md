@@ -30,12 +30,12 @@ Models: decisions and dialogue by Gemini 3.5 Flash-Lite (Gemini 3.8 Flash at bra
 
 **Series synthesis**: *Part 1 — a society made only of words. Part 2 — four signs. Part 3 — relationships that last only between two.* Under conditions with no rewards, no assigned roles, and no "cooperate," at least with this model and this method, no mechanism for meshing with others emerged within 6 hours. This is **not** a claim that "LLMs cannot build societies": we never provided a collective-action move, a dedicated channel for news, or an exchange move, and we tested only one model family.
 
-Every claim in the report was independently re-derived from raw data before release; the full ledger (with old vs. corrected values) is in `VERIFICATION_LEDGER.md`.
+The main figures in the report can be recomputed from the bundled data (see `VERIFICATION.md`).
 
 ## Files
 
 - `README.md` — Japanese overview / `REPORT.md` (+ `REPORT.pdf`) — full technical report (Japanese)
-- `VERIFICATION.md` — claim ↔ data mapping / `VERIFICATION_LEDGER.md` — pre-release verification ledger
+- `VERIFICATION.md` — claim ↔ data mapping
 - `DATA.md` — data dictionary and caveats / `METHOD_AND_LIMITS.md` — honest disclosure of flaws and limits
 - `DESIGN_GEN3.md` — design of what was added and removed / `AUDIT_109.md` — the 109 defects and how they were handled / `INVENTORY.md` — all 35 runs and counts of changes
 - `data/` — event ledgers (gzipped JSONL), full speech timelines, full book texts, persona cards, death lists for #4, #5, #6, B-39–B-42
